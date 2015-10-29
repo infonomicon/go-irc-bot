@@ -1,0 +1,17 @@
+{
+        "irc": {
+                "host": "chat.freenode.net",
+                "port": "6667",
+                "ssl": false,
+                "ssl_verify_skip": false,
+                "channels": [ "#sirwanksabit" ],
+                "password": "",
+                "nickname": "derwanksta"
+        },
+        "database": {
+            "karma": "/path/to/database/karma.db"
+        },
+        "logging": {
+            "location": "/path/to/log/directory"
+        }
+}
